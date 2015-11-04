@@ -7,9 +7,10 @@ The reason why this project is better is because little robot updates this packa
 # Installation
 
 ```bash
-npm install highcharts --save
+npm install highcharts SpotOnInc/commonjs-highcharts --save
 ```
 
 # Usage
 
-`require('highcharts-commonjs')`
+`import highcharts from 'commonjs-highcharts'`
+
